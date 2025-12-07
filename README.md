@@ -1,5 +1,8 @@
-Here is the `README.md` file code for your GitHub repository. It includes sections for both parts of your pipeline (SAR Restoration and YOLO Detection) with specific placeholders left for your output screenshots.
+links of proof of work :
 
+https://colab.research.google.com/drive/1ZmIL1uSk_wlK03AgikhdTpBgEGL6UjIo
+
+https://colab.research.google.com/drive/1xBN4ftWDdraxkUliixsBgCb3rLlEC8uO
 
 # 🛰️ Military Asset Detection & SAR Image Restoration Pipeline
 
